@@ -1,0 +1,19 @@
+# Fdb version 4
+["pdflatex"] 1704465858.53387 "/home/theo/projects/swe-cv/resume.tex" "resume.pdf" "resume" 1704465858.68761 2
+  "/home/theo/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
+  "/home/theo/.TinyTeX/texmf-dist/tex/latex/base/article.cls" 1686341992 20144 fbcf51733730d8f1a62143512ff5b1fe ""
+  "/home/theo/.TinyTeX/texmf-dist/tex/latex/base/size11.clo" 1686341992 8464 a4a9a859b7fd5b6c1450673c4d301348 ""
+  "/home/theo/.TinyTeX/texmf-dist/tex/latex/tools/array.sty" 1698869629 12667 e4b5eb11e4b7239e6c8a52bbe074a6c6 ""
+  "/home/theo/.TinyTeX/texmf-dist/web2c/texmf.cnf" 1697057529 41009 84b61f42d16d06bedb915f57aa2374cf ""
+  "/home/theo/.TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt" 1704251584 6810836 df2a65d26a52b2887c13b56a3ff88702 ""
+  "/home/theo/.TinyTeX/texmf.cnf" 1704251550 637 edd806fb06a89761a6034e1968af9017 ""
+  "/home/theo/projects/swe-cv/resume.tex" 1704382179.46784 3758 6754e8532bd5de7b19af5ebea24bb594 ""
+  "awesome-cv.cls" 1704299360.88317 29600 8d40609025f93862de82a3e783397186 ""
+  "enumitem.sty" 0 -1 0 ""
+  "resume.aux" 1704465858.52571 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "resume.tex" 1704382179.46784 3758 6754e8532bd5de7b19af5ebea24bb594 ""
+  (generated)
+  "resume.aux"
+  "resume.log"
+  "resume.pdf"
+  (rewritten before read)
